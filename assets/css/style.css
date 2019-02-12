@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 body {
@@ -40,4 +41,13 @@ nav {
     display: block;
     float: left;
     margin: 0px 15px;
+}
+
+.nav-wrap ul li a {
+    text-decoration: none;
+    color: #787878
+}
+
+.nav-wrap ul li:first-child a {
+    color: #f6873a;
 }
