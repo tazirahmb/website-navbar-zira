@@ -40,12 +40,13 @@ nav {
 .nav-wrap ul li {
     display: block;
     float: left;
+    font-size: 14px;
     margin: 0px 15px;
 }
 
 .nav-wrap ul li a {
     text-decoration: none;
-    color: #787878
+    color: #aaaaaa
 }
 
 .nav-wrap ul li:first-child a {
