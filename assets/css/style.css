@@ -24,3 +24,20 @@ nav {
     max-width: 1152px;
     margin: auto;
 }
+
+.logo-link {
+    position: absolute;
+    top: 14px;
+}
+
+.nav-wrap ul {
+    position: relative;
+    top: 26px;
+    float: right;
+}
+
+.nav-wrap ul li {
+    display: block;
+    float: left;
+    margin: 0px 15px;
+}
